@@ -1,0 +1,19 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: blueviolet;
+  padding: 20px;
+}
+
+.logout-btn {
+  height: 40px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+img {
+  color: white;
+}
